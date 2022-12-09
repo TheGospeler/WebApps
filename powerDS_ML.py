@@ -220,6 +220,5 @@ if(main_opt == "Data Visualization"):
 
 else:
     st.write("""
-        ### SURPRISE! 😂😉😉
-
-        Stay Tuned, Currently an ongoing project.""")
+        ### The Machine Learning Application is lunched on a different Web App.""")
+    st.markdown("[Click Here to Run Machine Learning Algorithms!](https://thegospeler-powermlweb-powerml-g0or2v.streamlit.app/)")
